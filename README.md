@@ -9,10 +9,8 @@ ED_AngelGallardo/
 ├── README.md
 ├── Unidad-1/
 |-------Diagnostico.py      
-│   └── Fundamentos_de_Programacion/
 │       ├── calculo_celsius_fahrenheit.py
 │       ├── area_circulo.py
-│   ├── Estructuras_de_Control
-│       ├── ...
-│       └── ...
+│       ├── numero_aleatorio.py
+│       ├── numero_primo.py
 ├── Unidad 2/
