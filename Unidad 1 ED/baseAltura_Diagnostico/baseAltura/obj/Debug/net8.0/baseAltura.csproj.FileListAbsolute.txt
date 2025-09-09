@@ -1,0 +1,14 @@
+C:\Users\galla\source\repos\baseAltura\baseAltura\obj\Debug\net8.0\baseAltura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\galla\source\repos\baseAltura\baseAltura\obj\Debug\net8.0\baseAltura.AssemblyInfoInputs.cache
+C:\Users\galla\source\repos\baseAltura\baseAltura\obj\Debug\net8.0\baseAltura.AssemblyInfo.cs
+C:\Users\galla\source\repos\baseAltura\baseAltura\obj\Debug\net8.0\baseAltura.csproj.CoreCompileInputs.cache
+C:\Users\galla\source\repos\baseAltura\baseAltura\bin\Debug\net8.0\baseAltura.exe
+C:\Users\galla\source\repos\baseAltura\baseAltura\bin\Debug\net8.0\baseAltura.deps.json
+C:\Users\galla\source\repos\baseAltura\baseAltura\bin\Debug\net8.0\baseAltura.runtimeconfig.json
+C:\Users\galla\source\repos\baseAltura\baseAltura\bin\Debug\net8.0\baseAltura.dll
+C:\Users\galla\source\repos\baseAltura\baseAltura\bin\Debug\net8.0\baseAltura.pdb
+C:\Users\galla\source\repos\baseAltura\baseAltura\obj\Debug\net8.0\baseAltura.dll
+C:\Users\galla\source\repos\baseAltura\baseAltura\obj\Debug\net8.0\refint\baseAltura.dll
+C:\Users\galla\source\repos\baseAltura\baseAltura\obj\Debug\net8.0\baseAltura.pdb
+C:\Users\galla\source\repos\baseAltura\baseAltura\obj\Debug\net8.0\baseAltura.genruntimeconfig.cache
+C:\Users\galla\source\repos\baseAltura\baseAltura\obj\Debug\net8.0\ref\baseAltura.dll
