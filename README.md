@@ -23,9 +23,8 @@
 <br><br>
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Estructura del repositorio***
 
-Estructura del repositorio<br>
 Unidad-1/ → Ejercicios y proyectos de la Unidad 1<br>
 Unidad-2/ → Ejercicios y proyectos de la Unidad 2<br>
 Unidad-3/ → Ejercicios y proyectos de la Unidad 3<br>
