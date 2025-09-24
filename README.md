@@ -1,5 +1,5 @@
 
-<h1 align="center">Estructuras de Datos<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">,Angel Gallardo </h1>
+<h1 align="center">Angel Gallardo | Estructuras de Datos</h1>
 <h3 align="center">Ing. Sistemas Computacionales | #24100563 </h3>
 
 
